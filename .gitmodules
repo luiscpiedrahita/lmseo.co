@@ -1,3 +1,3 @@
 [submodule "LMSEO"]
-	path = web/app/themes/lmseo
+	path = web/app/themes/helios
 	url = https://github.com/luiscpiedrahita/LMSEO
