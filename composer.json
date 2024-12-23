@@ -65,7 +65,10 @@
     "wpackagist-plugin/woocommerce-payments": "8.5.1",
     "wpackagist-plugin/wp-mail-smtp": "4.2.0",
     "wpackagist-plugin/wpdiscuz": "7.6.27",
-    "wpackagist-plugin/wpforms-lite": "1.9.2.2"
+    "wpackagist-plugin/wpforms-lite": "1.9.2.2",
+    "wpackagist-plugin/query-monitor": "3.17.0",
+    "wpackagist-plugin/advanced-database-cleaner": "^3.1",
+    "wpackagist-plugin/cf7-element-converter": "^1.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
