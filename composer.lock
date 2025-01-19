@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "240a6e565732915f4222542df93ad744",
+    "content-hash": "f2874740e7e7a2bed26a63e9ca02021b",
     "packages": [
         {
             "name": "composer/installers",
@@ -1591,24 +1591,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-mail-smtp/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-migrate-db",
-            "version": "2.6.11",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-migrate-db/",
-                "reference": "tags/2.6.11"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-migrate-db.2.6.11.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-migrate-db/"
         },
         {
             "name": "wpackagist-plugin/wpdiscuz",
